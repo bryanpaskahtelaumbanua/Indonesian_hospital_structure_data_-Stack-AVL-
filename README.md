@@ -40,11 +40,12 @@ https://www.kaggle.com/datasets/muhammadhabibna/hospital-data-in-indonesia
 
 ```
 └── Hospital_Indonesia_Cleaned.csv
-└── avl_tree.py
-└── stack.py
-└── data_preprocessing.py
+└── AVL_Tree.py
+└── Stack.py
+└── Data Preprocessing.py
 └── main.py
 └── README.md
+└── indonesia.geojson
 ```
 
 ---
@@ -92,6 +93,16 @@ Visualisasi peta Indonesia menggunakan:
 
 * `geopandas`
 * `matplotlib`
+<img width="1539" height="800" alt="Provinsi_Hospital" src="https://github.com/user-attachments/assets/8c3d23d2-19ad-45ed-83f7-197446c24956" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d97b343-8a11-4c92-a120-e0ebb7a2e072" width="24%" />
+  <img src="https://github.com/user-attachments/assets/9345f5af-b822-4a7b-99bd-56f1c7c4c689" width="24%" />
+  <img src="https://github.com/user-attachments/assets/1f3ea957-03b6-48aa-b827-f89dd8fb4160" width="24%" />
+  <img src="https://github.com/user-attachments/assets/c7e9f7c5-b525-4615-b21c-cf7fdd8a4748" width="24%" />
+</p>
+
+
 
 ---
 
@@ -184,25 +195,25 @@ Menghapus data rumah sakit dari AVL Tree.
 
 Membatalkan operasi CRUD terakhir menggunakan Stack.
 
-## 6. Inorder Traversal
+## 6. Lihat History Stack
+
+Menampilkan isi Stack riwayat operasi.
+
+## 7. Inorder Traversal
 
 Menampilkan data rumah sakit secara terurut berdasarkan `hospital_id`.
 
-## 7. Preorder Traversal
+## 8. Preorder Traversal
 
 Menampilkan struktur AVL Tree setelah balancing.
 
-## 8. Postorder Traversal
+## 9. Postorder Traversal
 
 Traversal AVL dengan urutan:
 
 * Left
 * Right
 * Root
-
-## 9. Lihat History Stack
-
-Menampilkan isi Stack riwayat operasi.
 
 ---
 
