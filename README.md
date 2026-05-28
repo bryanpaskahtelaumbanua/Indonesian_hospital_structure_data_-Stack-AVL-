@@ -33,9 +33,8 @@ Dataset berisi:
 Jumlah data setelah preprocessing:
 
 * ±3148 data rumah sakit
-
-https://www.kaggle.com/datasets/muhammadhabibna/hospital-data-in-indonesia
 ---
+https://www.kaggle.com/datasets/muhammadhabibna/hospital-data-in-indonesia
 
 # Struktur Folder Proyek
 
